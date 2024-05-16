@@ -1,0 +1,8 @@
+{
+    "token": "Token Discord",
+    "clientId": "Client Id",
+    "guildId": "Guild Id",
+    "RoleFree": "Role for GetKey",
+    "Perm": "Role Dev",
+    "mongoURI": "mongodb+srv://ZetaHub_Ray:RWNeSqpPdU1ROs0z@cluster0.24cl0xb.mongodb.net/?retryWrites=true&w=majority"
+}
